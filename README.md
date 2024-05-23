@@ -5,7 +5,7 @@ As a matter of fact, in 2023, this industry generated 85.41 billion dollars and 
 
 As the avaricious students of a business school that we are, we asked ourselves how we could predict the outcomes of an NBA game in an algorithmic way. 
 To do so, we downloaded five CSV files (four of them are on GitHub, the missing one was too heavy but you can access it with this link https://drive.google.com/file/d/1qzMIielw-0bP3HvDqpYAZ7qeQG2dQvxn/view?usp=sharing) from the official NBA website (https://www.nba.com/stats).
-We did an EDA which is contained in the Jupyter notebook named EDA.ipynb and then found three ways to answer the previous question.
+We did an EDA which is contained in the Jupyter notebook named EDA.ipynb and then found three approaches to answer the previous question.
 
 The first way is a Poisson distribution-based model which is accessible in the notebook named poisson.ipynb. 
 The second way is a random forest machine learning model  and a logistic regression model which is accessible in the notebook named forest_lr.ipynb.
