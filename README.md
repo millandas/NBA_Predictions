@@ -8,11 +8,11 @@ To do so, we downloaded five CSV files (four of them are on GitHub, the missing 
 We did an EDA which is contained in the Jupyter notebook named EDA.ipynb and then found three ways to answer the previous question.
 
 The first way is a Poisson distribution-based model which is accessible in the notebook named poisson.ipynb. 
-The second way is a random forest machine learning model which is accessible in the notebook named forest_lr.ipynb.
+The second way is a random forest machine learning model  and a logistic regression model which is accessible in the notebook named forest_lr.ipynb.
 The third way is an ELO-based model which is accessible in the notebook named elo_model.ipynb.
 
 Best regards,
 
-Millan Das, Octave Horlin , Arthur de Leusse ,  William Peltier & Alexis Vansson
+Millan Das, Octave Horlin , Arthur de Leusse ,  William Peltier & Alexis Vannson
 
 
